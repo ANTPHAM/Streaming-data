@@ -6,6 +6,8 @@ Required installations:
 
 - zookeeper-3.5.5 
 
+- storm 2.1.0
+
 - elasticsearch-7.4.0
 
 - kibana 7.4.2
