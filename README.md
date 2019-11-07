@@ -18,3 +18,4 @@ Required installations:
 
 
 
+![Alt text](/Streaming_data/bitcoin/topologie.png?raw=true "Topologie")
